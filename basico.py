@@ -1,4 +1,4 @@
-numeros = [10,30,40,50] 
+numeros = [10,30,40,50,80,100] 
 #           0 1  2   3
 m = max(numeros)
 numeros[0]=20
